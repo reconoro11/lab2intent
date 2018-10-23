@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab2intent</string>
+    <string name="hint_messageWeight">Enter a Weight(KG)</string>
+    <string name="hint_messageHeight">Enter a Height(M)</string>
+    <string name="calculate">Calculate</string>
+    <string name="mesage">Message</string>
+    <string name="close">Close</string>
+    <string name="error_message">Please enter a message</string>
+
+</resources>
